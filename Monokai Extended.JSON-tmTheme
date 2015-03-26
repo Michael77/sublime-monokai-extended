@@ -2,7 +2,7 @@
     "author": "github.com/jonschlinkert", 
     "colorSpaceName": "sRGB", 
     "gutterSettings": {
-        "background": "#073642", 
+        "background": "#1a1a1a", 
         "divider": "#586e75", 
         "foreground": "#839496", 
         "selectionBackground": "#586e75", 
