@@ -9,7 +9,7 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#073642</string>
+		<string>#1a1a1a</string>
 		<key>divider</key>
 		<string>#586e75</string>
 		<key>foreground</key>
